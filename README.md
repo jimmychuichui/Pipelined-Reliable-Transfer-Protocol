@@ -36,9 +36,7 @@ Each PRTP packet follows a consistent format:
 
 ### Requirements
 
-- Python 3.x (if implemented in Python)
-- Standard UDP networking libraries (e.g., `socket`)
-- Optional: `pytest` or custom scripts for testing
+- Python 3.x
 
 ### Run Sender
 
